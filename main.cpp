@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("HW");
+	printf("FANZA");
 
 	return 0;
 }

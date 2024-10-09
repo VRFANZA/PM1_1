@@ -2,7 +2,9 @@
 
 int main() {
 
-	printf("FANZA");
+	printf("FANZA\n");
+
+	printf("DLsite\n");
 
 	return 0;
 }

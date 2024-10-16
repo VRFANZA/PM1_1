@@ -4,7 +4,7 @@ int main() {
 
 	printf("FANZA\n");
 
-	printf("DLsite\n");
+	printf("FANZAGAMES\n");
 
 	return 0;
 }
